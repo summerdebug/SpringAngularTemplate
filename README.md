@@ -9,4 +9,4 @@ Run `npm install` command in `src/main/js/angularclient` directory to download d
 Run `ng serve --open` to start the application. Access the application in URL `http://localhost:4200/`.
 
 ## Resources
-https://www.baeldung.com/spring-boot-angular-web#7-the-userservice-service
+https://www.baeldung.com/spring-boot-angular-web
